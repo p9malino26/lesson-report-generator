@@ -5,7 +5,6 @@ import os
 
 ASSET_PATH=os.path.dirname(__file__)
 
-HOURLY_RATES_FNAME=os.path.join(ASSET_PATH, "hourly_rates.txt")
 REPORT_MASTER_FNAME=os.path.join(ASSET_PATH, "report_master.org")
 RECEIPT_MASTER_FNAME=os.path.join(ASSET_PATH, "receipt_master.org")
 REPORT_FNAME="report.org"
