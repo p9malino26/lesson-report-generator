@@ -1,0 +1,18 @@
+#+OPTIONS: toc:nil
+#+TITLE: \huge \uppercase{Lesson Report} \vspace{0.5cm} \hline
+#+DATE: Date and time: #DATETIME
+#+AUTHOR: Tutor: Patryk Malinowski
+#+LATEX_CLASS: article
+#+LATEX_HEADER:\makeatletter \renewcommand{\@seccntformat}[1]{} \makeatother \usepackage[margin=1in]{geometry} \renewcommand{\familydefault}{\sfdefault} \usepackage{nopageno}
+* What we did today
+#WHATWEDID
+* I'm impressed by ...
+#IMPRESSED
+* Improvements
+#IMPROVEMENTS
+* Future plan
+#FUTUREPLAN
+* Further comments
+#FURTHERCOMMENTS
+* Homework
+#HOMEWORK

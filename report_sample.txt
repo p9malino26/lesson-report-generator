@@ -1,0 +1,14 @@
+#STUDENT Alice
+#DATETIME 23/05/2012 14:00
+#WHATWEDID
+- Learned completing the square
+#IMPRESSED
+- She grasped the content really quickly.
+#IMPROVEMENTS
+- Don't rush because that causes you to make mistakes!
+#FUTUREPLAN
+- We will cover solving quadratic inequalities
+#FURTHERCOMMENTS
+- n/a
+#HOMEWORK
+- Textbook: Pg. 42 Questions 1,2,3

@@ -1,0 +1,18 @@
+#+OPTIONS: toc:nil
+#+TITLE: \huge \uppercase{Lesson Receipt} \vspace{0.5cm} \hline
+#+DATE: Date and time: #DATETIME
+#+AUTHOR: Tutor: Patryk Malinowski
+#+ATTR_LATEX: :width \textwidth :thickness 0.8pt
+#+LATEX_HEADER: \renewcommand{\familydefault}{\sfdefault} \usepackage{nopageno}
+This receipt confirms that the lesson has been completed and paid for.
+| Student:     | #STUDENT          |
+| Hourly rate: | £#HOURLYRATE      |
+| Duration:    | #DURATION hour(s) |
+| Total cost:  | £#TOTALCOST       |
+
+-----
+\begin{center}
+\uppercase{\huge{Thank you}}
+\end{center}
+
+ 
